@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XVSBrushes", "XVSBrushes\XVSBrushes.csproj", "{625A2790-8449-414D-9B43-DFD9C9594041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.VisualStudio.Presentation", "..\XamarinVS\src\Core\VisualStudio.Presentation\Xamarin.VisualStudio.Presentation.csproj", "{76670043-5193-483F-B7D3-5822D6BDFB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625A2790-8449-414D-9B43-DFD9C9594041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625A2790-8449-414D-9B43-DFD9C9594041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625A2790-8449-414D-9B43-DFD9C9594041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625A2790-8449-414D-9B43-DFD9C9594041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76670043-5193-483F-B7D3-5822D6BDFB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76670043-5193-483F-B7D3-5822D6BDFB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76670043-5193-483F-B7D3-5822D6BDFB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76670043-5193-483F-B7D3-5822D6BDFB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BA2713-7FAF-4821-BD86-164BB824B049}
+	EndGlobalSection
+EndGlobal
